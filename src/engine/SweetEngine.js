@@ -1,8 +1,8 @@
 
-import SyntaxType from "sweet/engine/constant/SyntaxType.js";
-import SweetConfig from "sweet/engine/SweetConfig.js";
-import Logger from "sweet/engine/logger/Logger.js";
-import Cache from "sweet/engine/cache/Cache.js";
+import SyntaxType from "#sweet/engine/constant/SyntaxType.js";
+import SweetConfig from "#sweet/engine/SweetConfig.js";
+import Logger from "#sweet/engine/logger/Logger.js";
+import Cache from "#sweet/engine/cache/Cache.js";
 class SweetEngine {
 
     constructor(options) {

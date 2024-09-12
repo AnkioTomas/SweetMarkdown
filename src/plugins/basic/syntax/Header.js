@@ -1,5 +1,5 @@
-import BaseSyntax from "sweet/engine/interface/BaseSyntax.js";
-import SyntaxType from "sweet/engine/constant/SyntaxType.js";
+import BaseSyntax from "#sweet/engine/interface/BaseSyntax.js";
+import SyntaxType from "#sweet/engine/constant/SyntaxType.js";
 import {md5} from "js-md5";
 
 class Header extends BaseSyntax{

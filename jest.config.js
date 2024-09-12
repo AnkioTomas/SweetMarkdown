@@ -3,6 +3,6 @@ export default {
     '^.+\\.(js|jsx)$': 'babel-jest',
   },
   "moduleNameMapper": {
-    '^sweet(.*)$': '<rootDir>/src/$1'
+    '^#sweet(.*)$': '<rootDir>/src/$1'
   }
 };

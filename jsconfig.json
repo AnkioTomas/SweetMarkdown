@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-        "sweet/*": ["src/*"]
+        "#sweet/*": ["src/*"]
     }
   }
 }

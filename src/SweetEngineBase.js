@@ -1,5 +1,5 @@
-import SweetEngine from "sweet/engine/SweetEngine.js";
-import BaseSyntaxPlugin from "sweet/plugins/basic/BaseSyntaxPlugin.js";
+import SweetEngine from "#sweet/engine/SweetEngine.js";
+import BaseSyntaxPlugin from "#sweet/plugins/basic/BaseSyntaxPlugin.js";
 
 let sweet  = new SweetEngine({
     plugins:[
